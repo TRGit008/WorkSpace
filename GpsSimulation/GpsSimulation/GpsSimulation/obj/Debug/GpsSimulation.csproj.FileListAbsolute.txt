@@ -1,0 +1,16 @@
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\bin\Debug\GpsSimulation.exe
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\bin\Debug\GpsSimulation.pdb
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.exe
+D:\My Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\bin\Debug\GpsSimulation.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\bin\Debug\GpsSimulation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\GpsSimulation\GpsSimulation\obj\Debug\GpsSimulation.csproj.GenerateResource.Cache
